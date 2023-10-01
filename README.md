@@ -1,6 +1,6 @@
-# App name
+Sushi
 
-[brief description of the app]
+A Zendesk tool made for EFG Customer Support to assist in their daily workload
 
 ### The following information is displayed:
 
