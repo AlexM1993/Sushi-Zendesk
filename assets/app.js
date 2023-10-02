@@ -1,5 +1,5 @@
 const client = ZAFClient.init();
-client.invoke("resize", { width: "100%", height: "395px" });
+client.invoke("resize", { width: "100%", height: "396px" });
 
 const button = document.getElementById("bigButton");
 const nickButton = document.getElementById("nickNameButton");
